@@ -79,7 +79,7 @@
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=meteyilmaz01&theme=tokyonight" height="150"/>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&theme=tokyonight)
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=meteyilmaz01&theme=tokyonight" height="150" />
 </p>
 
 ---
