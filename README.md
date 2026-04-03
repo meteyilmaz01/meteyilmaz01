@@ -75,18 +75,6 @@
 
 ---
 
-### 📊 GitHub Overview
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=meteyilmaz01&theme=tokyonight" height="150"/>
-</p>
-<!-- Most Used Languages -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meteyilmaz01&layout=compact&theme=radical)
-
----
-
-
-
 ### ✨ Note
 
 <sub>
