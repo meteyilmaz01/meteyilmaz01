@@ -75,9 +75,11 @@
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=meteyilmaz01&show_icons=true&locale=en&layout=compact" alt="meteyilmaz01" /></p>
+### 🚀 Top Skills
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=meteyilmaz01&show_icons=true&locale=en" alt="meteyilmaz01" /></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,python,react,ts,js,postgres,mssql,docker,git,azure,rabbitmq" />
+</p>
 
 ---
 
