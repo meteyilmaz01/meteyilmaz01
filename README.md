@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mete Yılmaz</h1>
+<h1 align="center">Hi, I'm Mete Yılmaz</h1>
 <h3 align="center">A passionate backend developer from Türkiye</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meteyilmaz01&label=Profile%20views&color=0e75b6&style=flat" alt="meteyilmaz01" /> </p>
@@ -24,4 +24,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=meteyilmaz01&show_icons=true&locale=en" alt="meteyilmaz01" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=meteyilmaz01&" alt="meteyilmaz01" /></p>
