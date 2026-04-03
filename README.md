@@ -75,6 +75,12 @@
 
 ---
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=meteyilmaz01&show_icons=true&locale=en&layout=compact" alt="meteyilmaz01" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=meteyilmaz01&show_icons=true&locale=en" alt="meteyilmaz01" /></p>
+
+---
+
 ### ✨ Note
 
 <sub>
