@@ -24,15 +24,16 @@
 
 ### 🌐 Connect with Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/mete-yilmaz-ce/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40">
+<p align="center">
+  <a href="https://www.linkedin.com/in/mete-yilmaz-ce/" target="_blank" style="margin-right:10px;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="35" width="40" />
   </a>
 
   <a href="mailto:metekisisel@gmail.com">
-    <img align="center" src="https://img.icons8.com/color/48/gmail-new.png" height="30" width="40" />
+    <img src="https://img.icons8.com/color/48/gmail-new.png" height="35" width="40" />
   </a>
 </p>
+
 
 ---
 
