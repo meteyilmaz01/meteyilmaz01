@@ -24,7 +24,7 @@
 
 ### 🌐 Connect with Me
 
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/mete-yilmaz-ce/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Mete%20Yılmaz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
