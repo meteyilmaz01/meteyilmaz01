@@ -14,7 +14,6 @@
 
 ### 👨‍💻 About Me
 
-- 🏢 Interning at **Asis Elektronik** — Corporate Applications Department
 - 🌱 Expanding my skills in **React & Frontend Development**
 - 💡 Passionate about **Backend Development, Data Analysis & Machine Learning**
 - 🤖 Currently building **CodexIQ** — an AI-powered programming exam grading platform
