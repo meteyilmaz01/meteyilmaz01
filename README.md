@@ -1,8 +1,10 @@
 <div align="center">
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Mete+YILMAZ;Aspiring+AI+Engineer+%7C+RAG+%26+LLM+Systems;Backend+foundation+in+.NET+%26+Python" alt="Typing SVG" />
-</a>
+# Hi 👋, I'm Mete YILMAZ
+
+### AI Engineer | RAG & LLM Systems
+
+Building AI applications on a solid .NET and Python foundation.
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=meteyilmaz01&label=Profile%20views&color=0e75b6&style=flat" alt="meteyilmaz01" />
@@ -14,7 +16,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a computer engineer moving from backend development into **AI engineering**. I'm especially interested in **Retrieval-Augmented Generation (RAG)**: how retrieval quality, chunking and evaluation shape the answers an LLM gives. My .NET/backend background helps me build AI features as real, deployable services.
+I'm a computer engineer moving from backend development into **AI engineering**. I'm especially interested in **Retrieval-Augmented Generation (RAG)**: how retrieval quality, chunking and evaluation shape the answers an LLM gives. My .NET and backend background helps me build AI features as real, deployable services.
 
 - 🔭 Focus: **RAG pipelines, hybrid search, LLM evaluation, local-first LLMs**
 - 🌱 Learning: **retrieval evaluation, reranking, agents, vector databases, MLOps**
