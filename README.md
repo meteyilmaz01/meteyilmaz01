@@ -6,9 +6,6 @@
 
 Building AI applications on a solid .NET and Python foundation.
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=meteyilmaz01&label=Profile%20views&color=0e75b6&style=flat" alt="meteyilmaz01" />
-</p>
 
 </div>
 
