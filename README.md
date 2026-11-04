@@ -2,9 +2,9 @@
 
 # Hi, I'm Mete YILMAZ
 
-### AI Engineer | RAG & LLM Systems
+### Backend Developer | .NET
 
-Building AI applications on a solid .NET and Python foundation.
+Building reliable APIs and services with C#, .NET and PostgreSQL.
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=meteyilmaz01&label=Profile%20views&color=0e75b6&style=flat" alt="meteyilmaz01" />
@@ -16,11 +16,11 @@ Building AI applications on a solid .NET and Python foundation.
 
 ### About Me
 
-I'm a computer engineer moving from backend development into **AI engineering**. I'm especially interested in **Retrieval-Augmented Generation (RAG)**: how retrieval quality, chunking and evaluation shape the answers an LLM gives. My .NET and backend background helps me build AI features as real, deployable services.
+I'm a computer engineer and backend developer working mainly with **C# and .NET**. I enjoy designing REST APIs, modeling data in relational databases and connecting services with message queues. I also integrate LLM-based features into backend systems when a project calls for it.
 
-- Focus: **RAG pipelines, hybrid search, LLM evaluation, local-first LLMs**
-- Learning: **retrieval evaluation, reranking, agents, vector databases, MLOps**
-- Building: **[Code-RAG-CLI](https://github.com/meteyilmaz01/Code-RAG-CLI)**, a local-first code Q&A tool with hybrid search, and **[CodexIQ](https://github.com/meteyilmaz01/CodexIQ)**, an AI-powered programming exam grading platform
+- Focus: **REST API design, relational databases, asynchronous messaging, clean architecture**
+- Learning: **React and frontend development, containerized deployment, cloud services**
+- Building: **[CodexIQ](https://github.com/meteyilmaz01/CodexIQ)**, a .NET and React platform that grades handwritten programming exams with LLMs, and **[Code-RAG-CLI](https://github.com/meteyilmaz01/Code-RAG-CLI)**, a local-first code Q&A tool in Python
 - Contact: **[metekisisel@gmail.com](mailto:metekisisel@gmail.com)**
 
 ---
@@ -40,21 +40,11 @@ I'm a computer engineer moving from backend development into **AI engineering**.
 
 ### Tech Stack
 
-#### AI / LLM
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-</p>
-
-**Concepts:** RAG · Embeddings · Hybrid Search (dense + BM25) · RRF · Chunking · Reranking · Retrieval Evaluation · Prompt Engineering · Multi-LLM Evaluation
-
 #### Backend
 <p>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
 </p>
 
@@ -65,6 +55,12 @@ I'm a computer engineer moving from backend development into **AI engineering**.
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 </p>
 
+#### Tools
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+</p>
+
 #### Frontend
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
@@ -72,11 +68,14 @@ I'm a computer engineer moving from backend development into **AI engineering**.
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
-#### Tools
+#### Also working with
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
 </p>
+
+LLM integration, RAG, embeddings and hybrid search.
 
 ---
 
