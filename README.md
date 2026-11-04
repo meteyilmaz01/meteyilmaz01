@@ -83,14 +83,6 @@ LLM integration, RAG, embeddings and hybrid search.
 
 ---
 
-### GitHub Stats
-
-<div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meteyilmaz01&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</div>
-
----
-
 ### Contribution Graph
 
 <picture>
